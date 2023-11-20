@@ -34,4 +34,4 @@ I'm Luis Solar, a frontend developer passionate about transforming ideas into pr
 
 ### Contact Me
 
-📫 [Email](mailto:solarluiso@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luis-solar-6219a4186/) | [Twitter](https://twitter.com/yourusername)
+[Email](mailto:solarluiso@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luis-solar-6219a4186/) | [Twitter](https://twitter.com/yourusername)
