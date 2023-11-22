@@ -15,7 +15,7 @@ Enthusiastic about connecting and growing professionally.
 
 <!-- <img align="left" alt="JavaScript" width="30px" style="margin-right: 0.5rem; margin-bottom: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> -->
 <img align="left" alt="React" width="30px" style="margin-right: 0.5rem; margin-bottom: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Next.js" width="30px" style="margin-right: 0.5rem; margin-bottom: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Next.js" width="30px" style="margin-right: 0.5rem; margin-bottom: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 <img align="left" alt="Node.js" width="30px" style="margin-right: 0.5rem; margin-bottom: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Sass" width="30px" style="margin-right: 0.5rem; margin-bottom: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="Tailwind CSS" width="30px" style="margin-right: 0.5rem; margin-bottom: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
