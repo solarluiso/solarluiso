@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm Luis Solar, a frontend developer passionate about transforming ideas into practical solutions. I thrive in collaborative environments, bringing creative concepts to life through meticulous UI design and sophisticated web development strategies.
+I'm Luis Solar, a front-end developer passionate about transforming ideas into practical solutions. I thrive in collaborative environments, bringing creative concepts to life through meticulous UI design and sophisticated web development strategies.
 Enthusiastic about connecting and growing professionally.
 
 #genuine
@@ -34,4 +34,4 @@ Enthusiastic about connecting and growing professionally.
 
 ### Contact Me
 
-[Email](mailto:solarluiso@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luis-solar-6219a4186/) | [Discord](https://discordapp.com/users/luiso_18228)
+[Email](mailto:solarluiso@gmail.com) | [LinkedIn](https://www.linkedin.com/in/solarluiso/) | [Discord](https://discordapp.com/users/solarluiso)
