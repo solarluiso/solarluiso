@@ -1,11 +1,10 @@
-# Hi, Welcome to my GitHub! 👋
+# Welcome to my GitHub Profile!
 
 ### About
 
-I'm Luiso, a Web Developer passionate about transforming ideas into practical solutions. I thrive in collaborative environments, bringing creative concepts to life through meticulous UI design and sophisticated web development strategies.
-Enthusiastic about connecting and growing professionally.
+I'm Luiso, a Web Developer passionate about transforming ideas into practical solutions. I thrive in collaborative environments, creating interactive and user-friendly applications with sophisticated web strategies. Eager to connect with others and continuously advance my skills.
 
-#genuine
+#intuitive
 #proactive
 #resourceful
 
