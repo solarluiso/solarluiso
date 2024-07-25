@@ -1,8 +1,8 @@
 # Hi, Welcome to my GitHub! 👋
 
-### About Me
+### About
 
-I'm Luiso, a Software Developer passionate about transforming ideas into practical solutions. I thrive in collaborative environments, bringing creative concepts to life through meticulous UI design and sophisticated web development strategies.
+I'm Luiso, a Web Developer passionate about transforming ideas into practical solutions. I thrive in collaborative environments, bringing creative concepts to life through meticulous UI design and sophisticated web development strategies.
 Enthusiastic about connecting and growing professionally.
 
 #genuine
@@ -35,6 +35,6 @@ Enthusiastic about connecting and growing professionally.
 
 ---
 
-### Contact Me
+### Contact
 
 [Email](mailto:solarluiso@gmail.com) | [LinkedIn](https://www.linkedin.com/in/solarluiso/) | [Discord](https://discordapp.com/users/solarluiso)
