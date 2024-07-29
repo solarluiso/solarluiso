@@ -30,7 +30,7 @@ I'm Luiso, a Web Developer passionate about transforming ideas into practical so
 
 ### Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solarluiso&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solarluiso&layout=compact&theme=dark)
 
 ---
 
