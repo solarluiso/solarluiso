@@ -2,10 +2,9 @@
 
 ### About
 
-I'm Luiso, <br/> 
-Web Developer passionate about transforming ideas into practical solutions. <br/>
-I thrive in collaborative environments, creating interactive and user-friendly applications with sophisticated web strategies. <br/>
-Eager to connect with others and continuously advance my skills.
+I'm Luiso, a web developer passionate about transforming ideas into practical solutions. <br/>
+I enjoy creating interactive and user-friendly applications with sophisticated web strategies. <br/> 
+Always adaptable and inventive, I continuously seek to connect with others and enhance my skills.
 
 #intuitive <br/>
 #proactive <br/>
