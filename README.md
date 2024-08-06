@@ -9,7 +9,7 @@
   with sophisticated web strategies.
 </samp></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&color=918C20&width=435&lines=%23intuitive;%23proactive;%23resourceful)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=18&pause=1000&color=E2DA32&width=435&lines=%23intuitive;%23proactive;%23resourceful)](https://git.io/typing-svg)
 
 <h2><samp>Tech Stack</samp></h2>
 
