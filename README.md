@@ -1,16 +1,17 @@
-# Welcome to my GitHub Profile!
+<h1><samp>Welcome to my GitHub Profile! ✨</samp></h1>
 
-### About
+<h2><samp>About</samp></h2>
 
-I'm Luiso, a web developer passionate about transforming ideas into practical solutions. <br/>
-I enjoy creating interactive and user-friendly applications with sophisticated web strategies. <br/> 
-Always adaptable and inventive, I continuously seek to connect with others and enhance my skills.
+<samp>
+  Hello, I'm Luiso! <br/>
+  Passionate about transforming ideas into practical solutions, <br/>
+  I enjoy creating interactive and user-friendly applications <br/>
+  with sophisticated web strategies.
+</samp>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=35D1CA&width=435&lines=%23intuitive;%23proactive;%23resourceful)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=35D1CA&width=435&lines=%23intuitive;%23proactive;%23resourceful)](https://git.io/typing-svg)
 
----
-
-### Tech Stack
+<h2><samp>Tech Stack</samp></h2>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,14 +28,10 @@ Always adaptable and inventive, I continuously seek to connect with others and e
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-### Stats
+<h2><samp>Stats</samp></h2> 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solarluiso&layout=compact&theme=dark)
 
----
-
-### Contact
+<h2><samp>Contact</samp></h2>
 
 [Email](mailto:solarluiso@gmail.com) | [LinkedIn](https://www.linkedin.com/in/solarluiso/) | [Discord](https://discordapp.com/users/solarluiso)
