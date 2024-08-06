@@ -2,14 +2,14 @@
 
 <h2><samp>About</samp></h2>
 
-<samp>
+<p><samp>
   Hello, I'm Luiso! <br/>
   Passionate about transforming ideas into practical solutions, <br/>
   I enjoy creating interactive and user-friendly applications <br/>
   with sophisticated web strategies.
-</samp>
+</samp></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=35D1CA&width=435&lines=%23intuitive;%23proactive;%23resourceful)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=14&pause=1000&color=35D1CA&width=435&lines=%23intuitive;%23proactive;%23resourceful)](https://git.io/typing-svg)
 
 <h2><samp>Tech Stack</samp></h2>
 
