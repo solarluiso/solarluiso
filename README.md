@@ -26,7 +26,10 @@
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![image](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<!---
 ![image](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+-->
 
 <h2><samp>Stats</samp></h2> 
 
