@@ -1,3 +1,6 @@
+![Luis Solar, Full Stack Developer](https://github.com/solarluiso/solarluiso/blob/main/assets/banner.png)
+
+
 <h1><samp>Welcome to my GitHub Profile! ✨</samp></h1>
 
 <h2><samp>About</samp></h2>
