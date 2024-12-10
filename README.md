@@ -1,43 +1,45 @@
-![Luis Solar, Full Stack Developer](https://github.com/solarluiso/solarluiso/blob/main/assets/banner.png)
-
-
 <h1><samp>Welcome to my GitHub Profile! ✨</samp></h1>
 
-<h2><samp>About</samp></h2>
-
 <p><samp>
-  Hello, I'm Luiso! <br/>
-  Passionate about transforming ideas into practical solutions, <br/>
-  I enjoy creating interactive and user-friendly applications <br/>
-  with sophisticated web strategies.
+  Hello, I'm Luiso! <br/><br/>
+  Passionate about bridging the gap between vision and execution, <br/>
+  I create interactive and user-friendly solutions <br/>
+  with sophisticated web strategies. <br/>
+  Eager to collaborate and work on impactful projects!
 </samp></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=18&pause=1000&color=E2DA32&width=435&lines=%23intuitive;%23proactive;%23resourceful)](https://git.io/typing-svg)
 
 <h2><samp>Tech Stack</samp></h2>
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![image](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![image](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-<!---
-![image](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
--->
-
-<h2><samp>Stats</samp></h2> 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solarluiso&layout=compact&theme=dark)
+<p align="left"><samp>
+  <a href="https://skillicons.dev">
+    <!-- Frontend -->
+    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,redux,apollo" alt="Frontend Stack" />
+    <br />
+    <!-- Backend -->
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma,mongodb,firebase,redis,graphql" alt="Backend Stack" />
+    <br />
+    <!-- Tools and Testing -->
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,jest,cypress,postman" alt="Tools and Testing" />
+    <br />
+  </a>
+</samp></p>
 
 <h2><samp>Contact</samp></h2>
 
-[Email](mailto:solarluiso@gmail.com) | [LinkedIn](https://www.linkedin.com/in/solarluiso/) | [Discord](https://discordapp.com/users/solarluiso)
+<div align="left">
+  <a href="mailto:solarluiso@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/solarluiso/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://discordapp.com/users/solarluiso" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+</div>
+
+<!-- <h2><samp>Stats</samp></h2>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solarluiso&layout=compact&theme=dark) -->
