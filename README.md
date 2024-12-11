@@ -1,11 +1,9 @@
 <h1><samp>Welcome to my GitHub Profile! ✨</samp></h1>
 
 <p><samp>
-  Hello, I'm Luiso! <br/><br/>
-  Passionate about bridging the gap between vision and execution, <br/>
-  I create interactive and user-friendly solutions <br/>
-  with sophisticated web strategies. <br/>
-  Eager to collaborate and work on impactful projects!
+  Hello! I'm Luiso, a web developer fueled by creativity, collaboration, and coffee.  <br/><br/>
+  Whether it's crafting user-focused platforms, experimenting with productivity-inspired projects, or enhancing digital experiences, I approach every challenge with curiosity and a problem-solving mindset. <br/>
+  I believe in creating technology that brings people together and makes a lasting impact. Let's create something amazing!
 </samp></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=18&pause=1000&color=E2DA32&width=435&lines=%23intuitive;%23proactive;%23resourceful)](https://git.io/typing-svg)
