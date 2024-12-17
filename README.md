@@ -2,8 +2,7 @@
 
 Hello! I'm Luiso, a web developer fueled by creativity, collaboration, and coffee.
 
-Whether it's crafting user-focused platforms, experimenting with productivity-inspired projects, or enhancing digital experiences, I approach every challenge with curiosity and a problem-solving mindset.  
-I believe in creating technology that brings people together and makes a lasting impact. Let's create something amazing!
+I specialize in crafting user-focused platforms, experimenting with productivity-inspired projects, and enhancing digital experiences. Every challenge excites me as an opportunity to learn and grow, with a curious and problem-solving mindset.I believe in creating technology that brings people together and makes a lasting impact. Let's create something amazing!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=18&pause=1000&color=E2DA32&width=435&lines=%23intuitive;%23proactive;%23resourceful)](https://git.io/typing-svg)
 
