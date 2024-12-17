@@ -19,9 +19,9 @@ I believe in creating technology that brings people together and makes a lasting
 
 ## Remote-First Work & Collaboration
 
-I am comfortable working in remote-first teams and have experience contributing to distributed projects using tools like Discord, ClickUp, and Github for collaboration. Good communication and my problem-solving skills allow me to thrive in virtual environments, ensuring that collaboration remains seamless no matter the location.
+I thrive in remote-first teams, with proven experience contributing to distributed projects using tools like Discord, ClickUp, and GitHub. My strong communication and problem-solving skills ensure seamless collaboration and productivity, regardless of location.
 
-Whether managing tasks, brainstorming solutions, or delivering results, I adapt quickly and effectively to new tools and technologies to ensure projects move forward in a remote setup.
+Whether managing tasks, brainstorming solutions, or delivering results, I adapt quickly and effectively to new tools and technologies to keep projects moving forward.
 
 ## Contact
 
