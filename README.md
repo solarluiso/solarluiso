@@ -9,12 +9,10 @@ I specialize in crafting user-focused platforms, experimenting with productivity
 ## Tech Stack
 
 ### ⭐ Core Technologies
-
-[![Core Technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,postgresql,prisma,docker,jest,vercel)](https://skillicons.dev)
+[![Core Technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,postgresql,firebase,vercel)](https://skillicons.dev)
 
 ### 👌 Additional Skills
-
-[![Additional Skills](https://skillicons.dev/icons?i=typescript,mongodb,firebase,redis,graphql,git,aws,cypress,redux,apollo,postman)](https://skillicons.dev)
+[![Additional Skills](https://skillicons.dev/icons?i=typescript,mongodb,graphql,redux,git)](https://skillicons.dev)
 
 ## Remote-First Work & Collaboration
 
