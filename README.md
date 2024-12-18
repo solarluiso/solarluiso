@@ -1,26 +1,26 @@
-# Welcome to my GitHub Profile! ✨
+# <samp>Welcome to my GitHub Profile! ✨</samp>
 
-Hello! I'm Luiso, a web developer fueled by creativity, collaboration, and coffee.
+<samp>Hello! I'm Luiso, a web developer fueled by creativity, collaboration, and coffee.</samp>
 
-I specialize in crafting user-focused platforms, experimenting with productivity-inspired projects, and enhancing digital experiences. With a curious and problem-solving mindset, every challenge excites me as an opportunity to learn and grow. I believe in creating technology that brings people together and makes a lasting impact. Let's create something amazing!
+<samp>I specialize in crafting user-focused platforms, experimenting with productivity-inspired projects, and enhancing digital experiences. With a curious and problem-solving mindset, every challenge excites me as an opportunity to learn and grow. I believe in creating technology that brings people together and makes a lasting impact. Let's create something amazing!</samp>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=18&pause=1000&color=E2DA32&width=435&lines=%23intuitive;%23proactive;%23resourceful)](https://git.io/typing-svg)
 
-## Tech Stack
+## <samp>Tech Stack</samp>
 
-### ⭐ Core Technologies
+### <samp>⭐ Core Technologies</samp>
 [![Core Technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,postgresql,firebase,vercel)](https://skillicons.dev)
 
-### 👌 Additional Skills
+### <samp>👌 Additional Skills</samp>
 [![Additional Skills](https://skillicons.dev/icons?i=typescript,mongodb,graphql,redux,git)](https://skillicons.dev)
 
-## Remote-First Work & Collaboration
+## <samp>Remote-First Work & Collaboration</samp>
 
-I thrive in remote-first teams, with proven experience contributing to distributed projects using tools like Discord, ClickUp, and GitHub. My strong communication and problem-solving skills ensure seamless collaboration and productivity, regardless of location.
+<samp>I thrive in remote-first teams, with proven experience contributing to distributed projects using tools like Discord, ClickUp, and GitHub. My strong communication and problem-solving skills ensure seamless collaboration and productivity, regardless of location.</samp>
 
-Whether managing tasks, brainstorming solutions, or delivering results, I adapt quickly and effectively to new tools and technologies to keep projects moving forward.
+<samp>Whether managing tasks, brainstorming solutions, or delivering results, I adapt quickly and effectively to new tools and technologies to keep projects moving forward.</samp>
 
-## Contact
+## <samp>Contact</samp>
 
 <div align="left">
   <a href="mailto:solarluiso@gmail.com" target="_blank">
