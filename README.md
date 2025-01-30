@@ -10,7 +10,7 @@
 
 ### <samp>⭐ Core Technologies</samp>
 
-[![Core Technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,postgresql,firebase,redis)](https://skillicons.dev)
+[![Core Technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,postgresql)](https://skillicons.dev)
 
 ### <samp>👌 Additional Skills</samp>
 
