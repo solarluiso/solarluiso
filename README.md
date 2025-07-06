@@ -16,11 +16,15 @@
 
 [![Additional Skills](https://skillicons.dev/icons?i=ts,mongodb,prisma,git,docker)](https://skillicons.dev)
 
+<br>
+
 ## <samp>Remote-First Work & Collaboration</samp>
 
 <samp>I thrive in remote-first teams, with proven experience contributing to distributed projects using tools like Discord, ClickUp, and GitHub. My strong communication and problem-solving skills ensure seamless collaboration and productivity, regardless of location.</samp>
 
 <samp>Whether managing tasks, brainstorming solutions, or delivering results, I adapt quickly and effectively to new tools and technologies to keep projects moving forward.</samp>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ## <samp>Contact</samp>
 
