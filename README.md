@@ -20,9 +20,7 @@
 
 ## <samp>Remote-First Work & Collaboration</samp>
 
-<samp>I thrive in remote-first teams, with proven experience contributing to distributed projects using tools like Discord, ClickUp, and GitHub. My strong communication and problem-solving skills ensure seamless collaboration and productivity, regardless of location.</samp>
-
-<samp>Whether managing tasks, brainstorming solutions, or delivering results, I adapt quickly and effectively to new tools and technologies to keep projects moving forward.</samp>
+<samp>I thrive in remote-first teams, contributing to distributed projects with tools like Discord, ClickUp, and GitHub. I’m known for staying calm under pressure, encouraging teammates, and bringing a positive, easygoing energy to every collaboration. Whether tackling tasks, solving problems, or adapting to new tools, I stay focused on moving projects forward and supporting the team along the way.</samp>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
